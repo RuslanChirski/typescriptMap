@@ -1,0 +1,22 @@
+{
+  "name": "typescriptMap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "@types/faker": "^5.5.9",
+    "@types/googlemaps": "^3.43.3",
+    "@types/node": "^17.0.8",
+    "axios": "^0.24.0",
+    "faker": "5.5.3"
+  }
+}

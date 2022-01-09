@@ -1,0 +1,9 @@
+# IntellijIdea
+.idea/
+.cache/
+
+# Dependencies
+node_modules/
+
+# Production
+dist/
